@@ -1,0 +1,75 @@
+{"frames": {
+
+"Ball.png":
+{
+	"frame": {"x":0,"y":0,"w":135,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":61,"w":135,"h":135},
+	"sourceSize": {"w":256,"h":256},
+	"anchor": {"x":0.492188,"y":0.484375}
+},
+"Dot_A.png":
+{
+	"frame": {"x":135,"y":0,"w":145,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":56,"w":145,"h":145},
+	"sourceSize": {"w":256,"h":256},
+	"anchor": {"x":0.496094,"y":0.492188}
+},
+"Dot_B.png":
+{
+	"frame": {"x":280,"y":0,"w":145,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":56,"w":145,"h":145},
+	"sourceSize": {"w":256,"h":256},
+	"anchor": {"x":0.507813,"y":0.5}
+},
+"Flag_A.png":
+{
+	"frame": {"x":0,"y":145,"w":94,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":68,"w":94,"h":120},
+	"sourceSize": {"w":256,"h":256},
+	"anchor": {"x":0.347656,"y":0.730469}
+},
+"Flag_B.png":
+{
+	"frame": {"x":94,"y":145,"w":94,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":68,"w":94,"h":120},
+	"sourceSize": {"w":256,"h":256},
+	"anchor": {"x":0.363281,"y":0.726563}
+},
+"Football_Goals_A.png":
+{
+	"frame": {"x":0,"y":265,"w":512,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":286},
+	"sourceSize": {"w":512,"h":286},
+	"anchor": {"x":0,"y":0}
+},
+"Football_Goals_B.png":
+{
+	"frame": {"x":0,"y":551,"w":512,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":286},
+	"sourceSize": {"w":512,"h":286},
+	"anchor": {"x":0,"y":0}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "objectSpreadSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":837},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6ea4a2dd368e19764c3ae77feab0b6f4:d609ff0a368196fc48d070b4737a2816:0266f44770b8f06c489432baa67bcb2e$"
+}
+}
