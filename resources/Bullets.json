@@ -1,0 +1,68 @@
+{"frames": {
+
+"Granade_Shell.png":
+{
+	"frame": {"x":37,"y":66,"w":22,"h":42},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":43,"w":22,"h":42},
+	"sourceSize": {"w":128,"h":128}
+},
+"Heavy_Shell.png":
+{
+	"frame": {"x":1,"y":38,"w":22,"h":64},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":32,"w":22,"h":64},
+	"sourceSize": {"w":128,"h":128}
+},
+"Laser.png":
+{
+	"frame": {"x":1,"y":1,"w":14,"h":78},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":25,"w":14,"h":78},
+	"sourceSize": {"w":128,"h":128}
+},
+"Light_Shell.png":
+{
+	"frame": {"x":67,"y":38,"w":12,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":51,"w":12,"h":26},
+	"sourceSize": {"w":128,"h":128}
+},
+"Medium_Shell.png":
+{
+	"frame": {"x":37,"y":90,"w":18,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":44,"w":18,"h":40},
+	"sourceSize": {"w":128,"h":128}
+},
+"Plasma.png":
+{
+	"frame": {"x":1,"y":17,"w":19,"h":76},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":26,"w":19,"h":76},
+	"sourceSize": {"w":128,"h":128}
+},
+"Shotgun_Shells.png":
+{
+	"frame": {"x":1,"y":62,"w":56,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":47,"w":56,"h":34},
+	"sourceSize": {"w":128,"h":128}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Bullets.png",
+	"format": "RGBA8888",
+	"size": {"w":80,"h":119},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:732ca9d21833be5314a4cf0ce32fcf39:39e9fa9169c68195c9d22daf9e0a0d19:26f32100fd21228f3644b132bee11bfe$"
+}
+}
