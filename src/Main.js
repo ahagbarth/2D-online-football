@@ -25,17 +25,3 @@ app.renderer.backgroundColor = 0x316400;
 
 //Add the canvas that Pixi automatically created for you to the HTML document
 document.body.appendChild(app.view);
-
-PIXI.Loader.shared.add("../resources/backgroundSpreadSheet.json").load(setup);
-
-
-function setup() {
-    let sheet = PIXI.Loader.shared.resources["../resources/backgroundSpreadSheet.json"].spritesheet;
-
-        // initialize background sprite
-        background = new PIXI.Sprite(sheet.textures["Ground_Tile_02_A.png"]);
-
-        // add it to the stage
-        app.stage.addChild(background);
-    
-  }
